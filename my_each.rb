@@ -1,3 +1,5 @@
 def my_each [arry] 
-  my_each(arry) do
+ counter = 0
+ while counter < arry.size do
+   
 end
